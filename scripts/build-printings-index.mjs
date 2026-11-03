@@ -104,8 +104,12 @@ async function main() {
     p.langs.add(cp(c.lang));
     for (const f of c.finishes ?? []) p.finishes.add(f);
     if (c.lang === 'en' && !p.idIsEn) {
+      // a impressão em inglês manda nos dados visuais (efeitos de moldura às vezes só vêm nela)
       p.id = cp(c.id);
       p.idIsEn = true;
+      p.border = cp(c.border_color ?? p.border);
+      p.frame = cp(c.frame ?? p.frame);
+      p.effects = cp([...(c.frame_effects ?? []), ...(c.promo_types ?? [])].join('|') || p.effects);
     }
     if (!sets.has(c.set)) sets.set(c.set, { size: c.printed_size ?? null, name: cp(c.set_name), released: cp(c.released_at ?? null) });
     if (scanned % 100000 === 0) console.log('…', scanned, 'cartas lidas,', prints.size, 'impressões');
