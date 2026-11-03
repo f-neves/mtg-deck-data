@@ -31,6 +31,20 @@ O gerador é `scripts/build-card-index.mjs` (Node 20+, sem dependências) e roda
 máximo 1x por dia; se a versão local for exatamente o `deltaFrom`, baixa só o delta, senão baixa o
 pacote completo.
 
+### Índice de impressões (`printings`)
+
+Usado pelo scanner para achar a edição exata pelo rodapé da carta (código do set + número de colecionador), sem rede. Sai na mesma release `card-index`, gerado por `scripts/build-printings-index.mjs` no mesmo workflow, a partir do mesmo bulk.
+
+| arquivo | o que é |
+|---|---|
+| `printings.ndjson.gz` | uma linha por impressão (set + número), somando os idiomas, e uma linha por set com o total impresso |
+| `printings-manifest.json` | versão, contagens e hash |
+
+```
+["p", set, number, oracleId, englishName, scryfallId, langs, finishes, border, frame, effects, rarity, year]
+["s", set, printedSize, setName, releasedAt]
+```
+
 ### Política de privacidade
 
 `docs/privacy-policy.html`, servida pelo GitHub Pages em

@@ -41,6 +41,10 @@ jobs:
       - name: Gera o índice
         run: node scripts/build-card-index.mjs
 
+      # Índice de impressões (set + número) p/ o scanner achar a edição pelo rodapé. Reusa o bulk baixado acima.
+      - name: Gera o índice de impressões
+        run: node scripts/build-printings-index.mjs
+
       - name: Publica na release card-index
         uses: softprops/action-gh-release@v2
         with:
@@ -51,3 +55,5 @@ jobs:
             card-index.ndjson.gz
             card-index-delta.ndjson.gz
             manifest.json
+            printings.ndjson.gz
+            printings-manifest.json
