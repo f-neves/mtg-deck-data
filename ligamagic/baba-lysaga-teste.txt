@@ -1,0 +1,94 @@
+1 Baba Lysaga, Night Witch (CLB) 266
+1 Academy Manufactor (MH2) 219
+1 Agent of the Iron Throne (CLB) 107
+1 Airtight Alibi (MKM) 149
+1 Azusa, Lost but Seeking (A25) 161
+1 Blinkmoth Nexus (2XM) 311
+1 Command Tower (ELD) 333
+1 Crashing Drawbridge (ELD) 217
+1 Darkmoss Bridge (MH2) 245
+1 Darksteel Citadel (M15) 242
+1 Decree of Pain (CMM) 148
+1 Dina, Soul Steeper (MUL) 37
+1 Echoing Deeps (LCI) 271
+1 Enduring Tenacity (DSK) 95
+1 Fae Offering (MH2) 158
+1 Fang of Shigeki (NEO) 183
+1 Fear of Lost Teeth (DSK) 97
+1 Flayer Husk (PLST) 
+11 Forest (ELD) 266
+1 Foundry Inspector (CMR) 310
+1 Gift of the Viper (MH3) 156
+1 Gingerbrute (WOE) 246
+1 Glimmerlight (DSK) 249
+1 Gnarled Scarhide (JOU) 72
+1 Hateful Eidolon (THB) 101
+1 Heaped Harvest (BLB) 175
+1 Hopeless Nightmare (WOE) 95
+1 Instill Energy (5ED) 304
+1 Lavaspur Boots (OTJ) 243
+1 Leaping Ambush (WOE) 177
+1 Lignify (LRW) 228
+1 Llanowar Loamspeaker (DMU) 170
+1 Magewright's Stone (RVR) 462
+1 Marionette Apprentice (MH3) 100
+1 Marionette Master (KLD) 90
+1 Mirkwood Bats (LTR) 421
+1 Mishra's Factory (PLST) 
+1 Mishra's Foundry (BRO) 265
+1 Mortality Spear (STX) 207
+1 Myr Sire (PLST) 
+1 Nyxborn Hydra (MH3) 164
+1 Omen of the Dead (THB) 110
+1 Ordeal of Nylea (THS) 170
+1 Ornithopter (DMR) 386
+1 Patriar's Seal (CLB) 332
+1 Peregrin Took (LTR) 807 
+1 Power Depot (MH2) 251
+1 Psychosis Crawler (C20) 248
+1 Quirion Ranger (MH2) 285
+1 Rancor (PLST)
+1 Royal Treatment (WOE) 183
+1 Sanctum Weaver (MH2) 171
+1 Sands of Time (VIS) 153
+1 Scene of the Crime (MKM) 267
+1 Shifting Wall (PLST) 
+1 Snakeskin Veil (KHM) 194
+1 Sol Ring (M3C) 305
+1 Spiteful Hexmage (WOE) 108
+1 Springleaf Drum (BRR) 118
+1 Squirrel Sanctuary (MH2) 174
+10 Swamp (UND) 91
+1 Swiftfoot Boots (PLIST) 271
+1 Temple of the False God (PLST) 
+1 Thought Vessel (PLST) 
+1 Thousand-Year Elixir (C21) 271
+1 Touch of Vitae (ICE) 271
+1 Tragic Slip (EMA) 109
+1 Treacherous Blessing (THB) 117
+1 Tree of Tales (MRD) 285
+1 Tyvar, Jubilant Brawler (ONE) 218
+1 Unearth (HA7) 8
+1 Utopia Sprawl (WOT) 63
+1 Vault of Whispers (BRC) 211
+1 Viridescent Bog (PIP) 154
+1 Vitalize (WTH) 145
+1 Vraska, the Silencer (OTJ) 237
+1 Welcome to Sweettooth (WOE) 198
+1 Wild Growth (PLST) 
+1 Winter, Cynical Opportunist (DSC) 7
+1 Woodland Cemetery (DMR) 261
+1 Yedora, Grave Gardener (MUL) 30
+
+1 Arcane Signet (ELD) 331
+1 Dockside Chef (NEO) 93
+1 Dunes of the Dead (HOU) 175
+1 Genesis Chamber (BBD) 235
+1 High Stride (BLB) 176
+1 Myr Moonvessel (DST) 133
+1 Reliquary Tower (MKC) 282
+1 Seeker of Skybreak (TMP) 254
+1 Skyshroud Ranger (10E) 297
+1 Twilight Mire (OTC) 337
+1 Wight of the Reliquary (MH3) 207
+1 Wreck Hunter (BRC) 11

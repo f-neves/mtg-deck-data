@@ -1,0 +1,9 @@
+# Capturas da LigaMagic (HAR/HTML) trazem dados da conta logada: nao versionar
+ligamagic/download*
+ligamagic/*.har
+ligamagic/capturas/
+__pycache__/
+ligamagic/babalysaga
+ligamagic/pag_*
+ligamagic/WhatsApp*
+*.stackdump
